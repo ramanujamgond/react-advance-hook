@@ -1,10 +1,10 @@
-import CustomHookExample1 from "./components/CustomHookExample1";
+import CustomHookExample2 from "./components/CustomHookExample2";
 
 function App() {
   return (
     <div className="App">
       <div className="container row col-12 mx-auto my-5">
-        <CustomHookExample1 />
+        <CustomHookExample2 />
       </div>
     </div>
   );
